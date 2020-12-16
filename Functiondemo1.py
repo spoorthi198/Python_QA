@@ -21,7 +21,7 @@ def get_max(*args):
     print(max(args))
 get_max(23,4,768,876,345)
 
-# *kwargs => results in tuple
+# *kwargs => results in dictionary
 
 def get_names(**kwargs):
     print(kwargs)

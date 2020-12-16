@@ -18,7 +18,7 @@ words = message.split(' ')
 print(words)
 
 emojis = {
-    ":)" : "😀",
+    ":)": "😀",
     ":(":"😌"
 }
 output = " "
